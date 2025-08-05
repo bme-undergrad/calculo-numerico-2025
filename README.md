@@ -1,6 +1,6 @@
 # calculo-numerico-2025
 
-Repositório da disciplina de Cálculo Numérico da Turma 1 de Engenharia Biomédica, 2024.
+Repositório da disciplina de Cálculo Numérico da Turma 2 de Engenharia Biomédica, 2025.
 
 ### Enviando ```func``` como argumento de funções
 
